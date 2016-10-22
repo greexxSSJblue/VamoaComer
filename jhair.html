@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+
+    <title></title>
+    <style>
+        header{
+	background-color:orange;
+	text-align:center;
+     border:solid 2px blue;
+    height:150px;
+}
+hl{
+	font-size:40px;
+
+#logo{
+    border:solid 2px red;
+    float:left;
+    width:25%;
+    height:45%;
+}
+#titulo{
+    border:solid 2px green;
+    text-align:center;
+    margin-left:25%;
+    margin-right:20%;
+    height:45%;
+}
+#titulo>p{
+    font-family:arial 50px;
+}
+#menu{
+    border:solid 2px black;
+    width:80%;
+    height:40%;
+    clear:left;
+}
+.dropdownmenu ul, .dropdownmenu li {
+	margin: 0;
+	padding: 0;
+}
+.dropdownmenu ul {
+    text-align:center;
+	background: gray;
+	list-style: none;
+	width: 100%;
+}
+.dropdownmenu li {
+    float:left;
+	position: relative;
+	width:auto;
+}
+.dropdownmenu a {
+	background: #30A6E6;
+	color: #FFFFFF;
+	display: block;
+	font: bold 12px/20px sans-serif;
+	padding: 10px 25px;
+	text-align: center;
+	text-decoration: none;
+	-webkit-transition: all .25s ease;
+	-moz-transition: all .25s ease;
+	-ms-transition: all .25s ease;
+	-o-transition: all .25s ease;
+	transition: all .25s ease;
+}
+.dropdownmenu li:hover a {
+	background: #000000;
+}
+body{
+    background:#cc9;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+    margin: 0;
+}
+ 
+#registrar{
+        float:left;
+        width:80%;
+        font-size:24px;
+        font-weight:bold;
+        color:#FFF;
+        text-align:right;
+}
+ 
+#envoltura{
+        position:absolute;
+    left:50%;
+    top:50%;
+    margin-left:-165px;
+    margin-top: -210px;
+    width: 330px;
+ 
+}
+ 
+#contenedor{
+    text-align:center;
+    background-color:#BF00FF;
+    box-shadow: 3px 3px 10px 5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:10px;
+    border-radius:10px;
+}
+ 
+#cabecera{
+
+    border-bottom: 5px solid #333;
+    padding-top: 5px;
+   
+    height:70px;
+    line-height:50px;
+    text-align:center;
+}
+ 
+#cuerpo{
+    background:#ececec;
+    border:solid #ccc;
+    border-width: 2px 0;
+    padding:15px 35px;
+}
+ 
+label{
+    color: #666;
+    font-weight: bold
+}
+ 
+input{
+    
+    border-radius:5px; 
+    box-shadow: 2px 2px 3px 1px;
+    font:bold 12px Arial, Helvetica, sans-serif;
+    height: 24px;
+    line-height: 20px;
+    padding:0 2px;
+    width: 230px;
+}
+ 
+input#usuario{
+    background:#ffc url(./images/loquito.jpg) no-repeat 0 2px; 
+   
+    padding-left: 25px;
+}
+ 
+input#contrasenia{
+    background:#ffc url(./images/infinio.jpg) no-repeat 0 5px;
+    padding-left: 25px;
+ 
+}
+ 
+.boton{
+    background: #ccc;
+    background: -webkit-linear-gradient(top,#fc6,#f63);
+    background: linear-gradient(top,#fc6,#f63);
+   
+    color: #666;
+    width: 120px;
+}
+ 
+.boton:active{
+    position: relative;
+    top: 3px;
+}
+ 
+#pie{
+    border-top: 5px solid #333;
+    color: #fff;
+    font-size: 11px;
+    height: 25px;
+    line-height: 24px;
+    text-align: center;
+}
+ 
+form,p{
+    margin:0;
+}
+ 
+p{
+  
+    padding-bottom: 5px;
+}
+ 
+p#bot{
+    padding-top: 10px;
+}
+    </style>
+    
+</head>
+<body>
+   
+   <header>
+            <div id="logo"> </div>
+            <div id="titulo"><p>Vamoacomer</p></div>
+            <div id="menu">
+                <nav class="dropdownmenu">
+  <ul>
+    <li><a href="vamoacomer.html">Home</a></li>
+    <li><a href="index.html">Acerca de Nosotros</a></li>
+    <li><a href="#">Categorias</a></li>
+    <li><a href="http://www.jochaho.com/wordpress/category/news/">Buscar lugar</a></li>
+    <li><a href="contactos.html">Contactanos</a></li>
+  </ul>
+</nav>            </div>
+        </header>
+        <div>
+            <div id="envoltura">
+        <div id="contenedor">
+ 
+            <div id="cabecera" >
+                <img src="./css/images/logo.gif">
+            </div>
+ 
+            <div id="cuerpo">
+                <form id="form-login" action="" method="post" autocomplete="off">
+                   
+                    <p><label >Usuario:</label></p>
+                        <input name="usuario" type="text" id="usuario" placeholder="Ingresa Usuario" autofocus="" required=""></p>
+ 
+                    <p><label>Contraseña:</label></p>
+                        <input name="contrasenia" type="password" id="contrasenia" placeholder="Ingresa Password" required=""></p>
+ 
+                    <p id="bot"><input type="submit" id="submit" name="submit" value="Ingresar" class="boton"></p>
+                </form>
+            </div>
+        </div>
+    </div>
+        </div>
+
+</body>
+</html>
+
+	
