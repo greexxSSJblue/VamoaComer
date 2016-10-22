@@ -1,0 +1,5 @@
+c:\users\alumno\documents\visual studio 2013\Projects\LugaresEncontrados\LugaresEncontrados\bin\LugaresEncontrados.dll.config
+c:\users\alumno\documents\visual studio 2013\Projects\LugaresEncontrados\LugaresEncontrados\bin\LugaresEncontrados.dll
+c:\users\alumno\documents\visual studio 2013\Projects\LugaresEncontrados\LugaresEncontrados\bin\LugaresEncontrados.pdb
+c:\users\alumno\documents\visual studio 2013\Projects\LugaresEncontrados\LugaresEncontrados\obj\Debug\LugaresEncontrados.dll
+c:\users\alumno\documents\visual studio 2013\Projects\LugaresEncontrados\LugaresEncontrados\obj\Debug\LugaresEncontrados.pdb
