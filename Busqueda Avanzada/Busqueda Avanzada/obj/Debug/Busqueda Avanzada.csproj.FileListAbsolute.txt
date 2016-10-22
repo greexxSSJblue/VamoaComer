@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2013\Projects\Busqueda Avanzada\Busqueda Avanzada\bin\Busqueda Avanzada.dll.config
+c:\users\alumno\documents\visual studio 2013\Projects\Busqueda Avanzada\Busqueda Avanzada\bin\Busqueda Avanzada.dll
+c:\users\alumno\documents\visual studio 2013\Projects\Busqueda Avanzada\Busqueda Avanzada\bin\Busqueda Avanzada.pdb
+c:\users\alumno\documents\visual studio 2013\Projects\Busqueda Avanzada\Busqueda Avanzada\obj\Debug\Busqueda Avanzada.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2013\Projects\Busqueda Avanzada\Busqueda Avanzada\obj\Debug\Busqueda Avanzada.dll
+c:\users\alumno\documents\visual studio 2013\Projects\Busqueda Avanzada\Busqueda Avanzada\obj\Debug\Busqueda Avanzada.pdb
