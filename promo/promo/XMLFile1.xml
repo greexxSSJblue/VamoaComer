@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Promociones>
+  <Promo>
+    <Imagen>http://cdne.diariocorreo.pe/thumbs/uploads/articles/images/nicola-porcella-pidio-mas-de-4-jpg_604x0.jpg</Imagen>
+    <url>http://www.kfc.com.pe</url>
+  </Promo>
+  <Promo>
+    <Imagen>http://www.chinawok.com.pe/imagenes/deliveries/Delivery-B.png</Imagen>
+    <url>http://www.chinawok.com.pe</url>
+  </Promo>
+  <Promo>
+    <Imagen>http://limadelivery.com/img/resources/menus/412fd27c95b7f75a747075b58a559331.jpg</Imagen>
+    <url>http://limadelivery.com</url>
+  </Promo>
+</Promociones>

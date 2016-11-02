@@ -7,12 +7,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{8DCB65C5-68BF-4CF7-9C0F-87A22CDE7ACA}</ProjectGuid>
+    <ProjectGuid>{DF082359-11A5-44B3-B4B2-ED610B45BCA5}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>VamoAComerProyecto</RootNamespace>
-    <AssemblyName>VamoAComerProyecto</AssemblyName>
+    <RootNamespace>promo</RootNamespace>
+    <AssemblyName>promo</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -58,10 +58,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Index.aspx" />
-    <Content Include="Principal.Master" />
-    <Content Include="XMLFile1.xml" />
-    <Content Include="XMLFile2.xml" />
+    <Content Include="Master.Master" />
+    <Content Include="BlackBoard.ttf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -70,64 +68,26 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Busqueda.aspx" />
-    <Content Include="Categorias.aspx" />
-    <Content Include="Categorias.css" />
-    <Content Include="categoria_datos.xml" />
-    <Content Include="Contactos.aspx" />
-    <Content Include="Contactos.css" />
     <Content Include="Global.asax" />
-    <Content Include="Lugares.xml" />
-    <Content Include="Nosotros.aspx" />
-    <Content Include="Nosotros.css" />
     <Content Include="Promo.aspx" />
     <Content Include="Web.config" />
+    <Content Include="XMLFile1.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="XMLFile2.xml">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Busqueda.aspx.cs">
-      <DependentUpon>Busqueda.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Busqueda.aspx.designer.cs">
-      <DependentUpon>Busqueda.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Categorias.aspx.cs">
-      <DependentUpon>Categorias.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Categorias.aspx.designer.cs">
-      <DependentUpon>Categorias.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Contactos.aspx.cs">
-      <DependentUpon>Contactos.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Contactos.aspx.designer.cs">
-      <DependentUpon>Contactos.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Index.aspx.cs">
-      <DependentUpon>Index.aspx</DependentUpon>
+    <Compile Include="Master.Master.cs">
+      <DependentUpon>Master.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Index.aspx.designer.cs">
-      <DependentUpon>Index.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Nosotros.aspx.cs">
-      <DependentUpon>Nosotros.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Nosotros.aspx.designer.cs">
-      <DependentUpon>Nosotros.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Principal.Master.cs">
-      <DependentUpon>Principal.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Principal.Master.designer.cs">
-      <DependentUpon>Principal.Master</DependentUpon>
+    <Compile Include="Master.Master.designer.cs">
+      <DependentUpon>Master.Master</DependentUpon>
     </Compile>
     <Compile Include="Promo.aspx.cs">
       <DependentUpon>Promo.aspx</DependentUpon>
@@ -155,9 +115,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>1863</DevelopmentServerPort>
+          <DevelopmentServerPort>1089</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:1863/</IISUrl>
+          <IISUrl>http://localhost:1089/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

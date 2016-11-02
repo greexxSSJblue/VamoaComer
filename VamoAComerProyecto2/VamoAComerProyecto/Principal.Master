@@ -8,23 +8,12 @@
     <title></title>
     <style>
         .head {
-            padding: 40px;           
+            
+            padding: 40px 40px 20px 40px;           
             font-size:20px;
             color: #fff;
         }
 
-        nav {
-            float:right;
-            background-color:#550F03;
-           
-        }
-        #gg{
-            float:left;
-        }
-        header {
-           margin:18px 0 18px 0;
-            background-color:#550F03
-        }
         .pie {
     padding: 69px 0 0 0;
     width: 962px;
@@ -59,45 +48,44 @@
     text-decoration: none;
     padding:5px;
 }
+        body{
+            margin:0px;
+        }
     </style>
 </head>
 <body>
-
-
-
     <form id="form1" runat="server">
-        <header>
-            
-            <img id="gg" src="3_White_logo_on_color1_257x75.png" style="width:300px;float:left"/>
-            <nav>
-                
-                
-                        <a class="head" href="Nosotros.aspx">Quiénes somos?</a>
-                        <a class="head" href="Contactos.aspx">Contáctenos</a>
-                        <a class="head"  href="Categorias.aspx">Categorías</a>
-                        <a class="head"  href="Busqueda.aspx">Búsqueda</a>
-                        <a class="head" href="oferta.aspx">Ofertas</a>
-                
-                
-                
-            </nav>
+        <header>  
+            <div style="background-color:#550F03">
+                <div style="float:left;background-color:#550F03 ">
+                <img id="gg" src="3_White_logo_on_color1_257x75.png" style="width:200px"/>
+            </div>
+            <div style=" margin-left:211px; background-color:#550F03;padding:22px ">    
+                <a class="head" href="Nosotros.aspx">Quiénes somos?</a>
+                <a class="head" href="Contactos.aspx">Contáctenos</a>
+                <a class="head"  href="Categorias.aspx">Categorías</a>
+                <a class="head"  href="Busqueda.aspx">Búsqueda</a>
+                <a class="head" href="Promo.aspx">Promociones</a>  
+                <a class="head" href="oferta.aspx">Iniciar Cesion</a> 
+            </div>
 
+            </div>
             
-
         </header>
+
         <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
         </div>
         <div class="clear"></div>
-<div class="pie">
-	<div class="left"><img src="4_Grayscale_logo_on_transparent_257x75.png" width="374" height="61" /><a href="http://www.facebook.com/lhsbox.page" target="_blank"><img src="http://lhsbox.com/imagenes/siguenos.png" border="0" align="top" /></a></div>
-    <div class="right">
+            <div class="pie">
+	        <div class="left"><img src="4_Grayscale_logo_on_transparent_257x75.png" width="374" height="61" /><a href="http://www.facebook.com/lhsbox.page" target="_blank"><img src="http://lhsbox.com/imagenes/siguenos.png" border="0" align="top" /></a></div>
+            <div class="right">
     	
-    	<a href="" target="_blank"><img src="http://lhsbox.com/imagenes/comparte.png"  /></a>
-        <a href="" target="_blank"><img src="http://lhsbox.com/imagenes/twitter.jpg" width="27" height="28" /></a>
-  </div>
-    <div class="clear"></div>
+    	            <a href="" target="_blank"><img src="http://lhsbox.com/imagenes/comparte.png"  /></a>
+                    <a href="" target="_blank"><img src="http://lhsbox.com/imagenes/twitter.jpg" width="27" height="28" /></a>
+            </div >
+                <div class="clear"></div>
     
     <div class="pie2" align="center">
     	<a href="como_funciona">Como Funciona</a>
@@ -111,7 +99,8 @@
     <div class="copy">
     <div class="left" style="padding:4px 0 0 341px;">VamoaComer Copyright &copy; 2016 powered by Fabrizzio </div>
     
-</div>
+</div>
+
     </form>
 </body>
 </html>

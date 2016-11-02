@@ -10,3 +10,9 @@ C:\Users\USER\Documents\GitHub\VamoaComer\VamoAComerProyecto\VamoAComerProyecto\
 C:\Users\USER\Documents\GitHub\VamoaComer\VamoAComerProyecto\VamoAComerProyecto\obj\Debug\VamoAComerProyecto.csprojResolveAssemblyReference.cache
 C:\Users\USER\Documents\GitHub\VamoaComer\VamoAComerProyecto\VamoAComerProyecto\obj\Debug\VamoAComerProyecto.dll
 C:\Users\USER\Documents\GitHub\VamoaComer\VamoAComerProyecto\VamoAComerProyecto\obj\Debug\VamoAComerProyecto.pdb
+C:\Users\USER\Documents\GitHub\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\bin\VamoAComerProyecto.dll.config
+C:\Users\USER\Documents\GitHub\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\bin\VamoAComerProyecto.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\bin\VamoAComerProyecto.pdb
+C:\Users\USER\Documents\GitHub\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\obj\Debug\VamoAComerProyecto.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\obj\Debug\VamoAComerProyecto.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\obj\Debug\VamoAComerProyecto.pdb

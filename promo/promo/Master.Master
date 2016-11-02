@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="promo.Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+<style>
+        header>nav>a {
+            padding: 40px;           
+            font-size:20px;
+       
+        }
+
+        header>nav {
+            float: left;
+            
+            background-color:orange;
+        }
+    body {
+        background-color:black;
+    }
+  
+    </style>
+</head>
+<body>
+
+
+
+    <form id="form1" runat="server">
+        <header>
+            <div>
+            <nav>
+                <img src="http://www.northlandcollege.edu/marcom/employee-resources/logo-downloads/master-logo/_logos/horizontal/nctc-master-logo-navy-horizontal-highres.png" style="width:300px;float:left"/>
+                
+                <a href="Nosotros.aspx">Quiénes somos?</a>
+                <a href="Contactos.aspx">Contáctenos</a>
+                <a href="Categorias.aspx">Categorías</a>
+                <a href="Busqueda.aspx">Búsqueda</a>
+                <a href="oferta.aspx">Ofertas</a>
+                
+            </nav>
+
+            </div>
+
+        </header>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

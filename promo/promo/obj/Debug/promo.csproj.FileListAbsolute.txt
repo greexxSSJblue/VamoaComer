@@ -1,0 +1,12 @@
+c:\users\alumno\documents\visual studio 2013\Projects\promo\promo\bin\promo.dll.config
+c:\users\alumno\documents\visual studio 2013\Projects\promo\promo\bin\promo.dll
+c:\users\alumno\documents\visual studio 2013\Projects\promo\promo\bin\promo.pdb
+c:\users\alumno\documents\visual studio 2013\Projects\promo\promo\obj\Debug\promo.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2013\Projects\promo\promo\obj\Debug\promo.dll
+c:\users\alumno\documents\visual studio 2013\Projects\promo\promo\obj\Debug\promo.pdb
+C:\Users\alumno\Desktop\promo\promo\bin\promo.dll.config
+C:\Users\alumno\Desktop\promo\promo\bin\promo.dll
+C:\Users\alumno\Desktop\promo\promo\bin\promo.pdb
+C:\Users\alumno\Desktop\promo\promo\obj\Debug\promo.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\promo\promo\obj\Debug\promo.dll
+C:\Users\alumno\Desktop\promo\promo\obj\Debug\promo.pdb
