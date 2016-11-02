@@ -1,0 +1,45 @@
+﻿body {
+    font-family:arial;
+    color:#ccc;
+    background-color:black;
+}
+#principal {
+   
+    text-align:center;
+    background-color:black;
+    margin-right:10%;
+
+}
+header{
+	background-color:orange;
+	border-bottom:2px solid green;
+	text-align:center;
+}
+hl{
+	font-size:40px;
+}
+#gg1 {
+  position: relative;
+  transition-property: background-color, color;
+  transition-duration: 1s;
+  transition-timing-function: ease-out;
+  -webkit-transition-property: background-color, color;
+  -webkit-transition-duration: 1s;
+  -o-transition-property: background-color, color;
+  -o-transition-duration: 1s;
+ 
+}
+
+#gg1:hover {
+  position: relative;
+  transition-property: background-color, color;
+  transition-duration: 1s;
+  transition-timing-function: ease-out;
+  -webkit-transition-property: background-color, color;
+  -webkit-transition-duration: 1s;
+  -o-transition-property: background-color, color;
+  -o-transition-duration: 1s;
+  background-color:grey;
+  color:black;
+  -moz-box-shadow: 2px 2px 1px black;
+}

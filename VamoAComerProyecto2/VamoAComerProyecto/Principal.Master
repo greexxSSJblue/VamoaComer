@@ -1,0 +1,117 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="VamoAComerProyecto.Principal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <style>
+        .head {
+            padding: 40px;           
+            font-size:20px;
+            color: #fff;
+        }
+
+        nav {
+            float:right;
+            background-color:#550F03;
+           
+        }
+        #gg{
+            float:left;
+        }
+        header {
+           margin:18px 0 18px 0;
+            background-color:#550F03
+        }
+        .pie {
+    padding: 69px 0 0 0;
+    width: 962px;
+    margin: auto;
+}
+        .left {
+    float: left;
+}
+        .right {
+    float: right;
+}
+        .clear {
+    clear: both;
+}
+        .pie2 {
+    border-top: solid 1px #9A0000;
+    border-bottom: solid 1px #9A0000;
+    padding: 14px 0 14px 179px;
+    margin: 18px 0 18px 0;
+    text-align:center;
+}
+        .copy {
+    text-align: center;
+    color: #4D4D4D;
+    font-size: 11px;
+    margin: 0 0 14px 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+        a, img {
+    border: 0px;
+    outline: 0px;
+    text-decoration: none;
+    padding:5px;
+}
+    </style>
+</head>
+<body>
+
+
+
+    <form id="form1" runat="server">
+        <header>
+            
+            <img id="gg" src="3_White_logo_on_color1_257x75.png" style="width:300px;float:left"/>
+            <nav>
+                
+                
+                        <a class="head" href="Nosotros.aspx">Quiénes somos?</a>
+                        <a class="head" href="Contactos.aspx">Contáctenos</a>
+                        <a class="head"  href="Categorias.aspx">Categorías</a>
+                        <a class="head"  href="Busqueda.aspx">Búsqueda</a>
+                        <a class="head" href="oferta.aspx">Ofertas</a>
+                
+                
+                
+            </nav>
+
+            
+
+        </header>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="clear"></div>
+<div class="pie">
+	<div class="left"><img src="4_Grayscale_logo_on_transparent_257x75.png" width="374" height="61" /><a href="http://www.facebook.com/lhsbox.page" target="_blank"><img src="http://lhsbox.com/imagenes/siguenos.png" border="0" align="top" /></a></div>
+    <div class="right">
+    	
+    	<a href="" target="_blank"><img src="http://lhsbox.com/imagenes/comparte.png"  /></a>
+        <a href="" target="_blank"><img src="http://lhsbox.com/imagenes/twitter.jpg" width="27" height="28" /></a>
+  </div>
+    <div class="clear"></div>
+    
+    <div class="pie2" align="center">
+    	<a href="como_funciona">Como Funciona</a>
+        <a href="inicio">Mi Cuenta </a>
+        <a href="contactenos">Contactenos</a>
+        <a href="contrato">Terminos y Condiciones</a>
+        <a href="politica" style="margin:0px;">Politicas de entrega y distribucion</a>
+    <div class="clear"></div>
+    
+    </div>
+    <div class="copy">
+    <div class="left" style="padding:4px 0 0 341px;">VamoaComer Copyright &copy; 2016 powered by Fabrizzio </div>
+    
+</div>
+    </form>
+</body>
+</html>

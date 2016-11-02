@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<categoria>
+  <hoja>
+    <imagen>https://static.wixstatic.com/media/a7ea1a_5f1feb73e2bc46568f7d693a4ca25a08.png/v1/fill/w_717,h_501,al_c,usm_0.66_1.00_0.01/a7ea1a_5f1feb73e2bc46568f7d693a4ca25a08.png</imagen>
+    <nombre>Parrilas</nombre>
+  </hoja>
+
+  <hoja>
+    <imagen>https://static.wixstatic.com/media/a7ea1a_632ebc7d62a74b3d8c3ebfbd38c38390.png/v1/fill/w_780,h_518,al_c,usm_0.66_1.00_0.01/a7ea1a_632ebc7d62a74b3d8c3ebfbd38c38390.png</imagen>
+    <nombre>Wok</nombre>
+  </hoja>
+  <hoja>
+    <imagen>https://static.wixstatic.com/media/a7ea1a_4bdfbe66fb1e40f3b41514e5ba765df4.jpg/v1/fill/w_750,h_416,al_c,q_90/a7ea1a_4bdfbe66fb1e40f3b41514e5ba765df4.jpg</imagen>
+    <nombre>pastas</nombre>
+  </hoja>
+  <hoja>
+    <imagen>https://static.wixstatic.com/media/a7ea1a_10269e870b4b4fe19c10dae75814d063.png/v1/fill/w_657,h_535,al_c,usm_0.66_1.00_0.01/a7ea1a_10269e870b4b4fe19c10dae75814d063.png</imagen>
+    <nombre>Chancho al palo</nombre>
+  </hoja>
+  <hoja>
+    <imagen>https://static.wixstatic.com/media/a7ea1a_32ec3b2c09884f48a554df91f02f19f9.png/v1/fill/w_768,h_501,al_c,usm_0.66_1.00_0.01/a7ea1a_32ec3b2c09884f48a554df91f02f19f9.png</imagen>
+    <nombre>comida criolla</nombre>
+  </hoja>
+  <hoja>
+    <imagen>https://static.wixstatic.com/media/a7ea1a_5de6477dae7148ac91288115a68343ec.png/v1/fill/w_771,h_535,al_c,usm_0.66_1.00_0.01/a7ea1a_5de6477dae7148ac91288115a68343ec.png</imagen>
+    <nombre>Ceviches</nombre>
+  </hoja>
+  <hoja>
+    <imagen>https://static.wixstatic.com/media/a7ea1a_1f5bae568e074f93b317bd2ec46288bc.png/v1/fill/w_754,h_518,al_c,usm_0.66_1.00_0.01/a7ea1a_1f5bae568e074f93b317bd2ec46288bc.png</imagen>
+    <nombre>Arroces</nombre>
+  </hoja>
+  <hoja>
+    <imagen>https://static.wixstatic.com/media/a7ea1a_d3706ca43bf144f29556cf586e2a3f18.jpg/v1/fill/w_940,h_534,al_c,q_90/a7ea1a_d3706ca43bf144f29556cf586e2a3f18.jpg</imagen>
+    <nombre>Makis</nombre>
+  </hoja>
+  <hoja>
+    <imagen>https://static.wixstatic.com/media/a7ea1a_9e4250b349694f32b5324cafe8dc2180.png/v1/fill/w_777,h_518,al_c,usm_0.66_1.00_0.01/a7ea1a_9e4250b349694f32b5324cafe8dc2180.png</imagen>
+    <nombre>Ensalada</nombre>
+  </hoja>
+  <hoja>
+    <imagen>https://static.wixstatic.com/media/a7ea1a_8efff3382b3f4d20ac7495d5aa202ab9.png/v1/fill/w_722,h_501,al_c,usm_0.66_1.00_0.01/a7ea1a_8efff3382b3f4d20ac7495d5aa202ab9.png</imagen>
+    <nombre>pizzas</nombre>
+  </hoja>
+  <hoja>
+    <imagen>https://static.wixstatic.com/media/a7ea1a_d0900e394dbd451e914e2734e8d5828c.jpg/v1/fill/w_940,h_525,al_c,q_90/a7ea1a_d0900e394dbd451e914e2734e8d5828c.jpg</imagen>
+    <nombre>Hamburguesas</nombre>
+  </hoja>
+
+</categoria>
