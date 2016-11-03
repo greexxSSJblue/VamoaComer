@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Informacion>
+  <Restaurantes>
+    <Imagen>https://pbs.twimg.com/profile_images/601153967171772416/Evt6ATHg.jpg</Imagen>
+    <Nombre>Pardos chicken</Nombre>
+    <especialidad>Pollo y Parrilla</especialidad>
+    <Descripcion>Actualmente, creemos que la combinación de los generosos ingredientes peruanos que empleamos sigue siendo el principal activo que nos permite estar presentes en el país con veintisiete restaurantes (dos en Trujillo y uno en Chiclayo) 
+                 y exponer con pasión parte de nuestra cultura culinaria en el exterior.Por su auténtico sabor, nos sentimos orgullosos de ser tan peruanos como el pollo a la brasa. Y convencidos de su valor como Patrimonio 
+                 Cultural de la Nación y riquísimo aporte a nuestra historia culinaria,nos satisface seguir ofreciéndoles a nuestros invitados la deliciosa experiencia de saborearlo con orgullo, pasión y felicidad.</Descripcion>
+    <Horarios> Lunes a Domingo de 12:00 - 23:00 </Horarios>
+  </Restaurantes>
+
+  <Restaurantes>
+    <Imagen>http://cde.3.elcomercio.pe/ima/0/1/4/5/3/1453425/base_image.jpg</Imagen>
+    <Nombre>San Ceferino Trattoria</Nombre>
+    <Especialidad>Pastas</Especialidad>
+    <Descripcion>Sus inicios se remontan a la típica trattoria Italiana;sin embargo, con el paso del tiempo su original carta de
+                 pastas ha migrado hacia una singular fusión con la comida Peruana y con la Internacional.
+    </Descripcion>
+    <Horarios> Lunes a Sabado 12:00 - 00:00
+               Domingos y Feriados 12:00 - 22:00
+    </Horarios>
+  </Restaurantes>
+
+  <Restaurantes>
+    <Imagen></Imagen>
+    <Nombre></Nombre>
+    <Especialidad></Especialidad>
+    <Descripcion></Descripcion>
+    <Horarios></Horarios>
+  </Restaurantes>
+
+  <Restaurantes>
+    <Imagen></Imagen>
+    <Nombre></Nombre>
+    <Especialidad></Especialidad>
+    <Descripcion></Descripcion>
+    <Horarios></Horarios>
+  </Restaurantes>
+
+  <Restaurantes>
+    <Imagen></Imagen>
+    <Nombre></Nombre>
+    <Especialidad></Especialidad>
+    <Descripcion></Descripcion>
+    <Horarios></Horarios>
+  </Restaurantes>
+
+  <Restaurantes>
+    <Imagen></Imagen>
+    <Nombre></Nombre>
+    <Especialidad></Especialidad>
+    <Descripcion></Descripcion>
+    <Horarios></Horarios>
+  </Restaurantes>
+</Informacion>

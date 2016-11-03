@@ -3,3 +3,9 @@ c:\users\alumno\documents\visual studio 2013\Projects\LugaresEncontrados\Lugares
 c:\users\alumno\documents\visual studio 2013\Projects\LugaresEncontrados\LugaresEncontrados\bin\LugaresEncontrados.pdb
 c:\users\alumno\documents\visual studio 2013\Projects\LugaresEncontrados\LugaresEncontrados\obj\Debug\LugaresEncontrados.dll
 c:\users\alumno\documents\visual studio 2013\Projects\LugaresEncontrados\LugaresEncontrados\obj\Debug\LugaresEncontrados.pdb
+C:\Users\alumno\Documents\GitHub\VamoaComer\LugaresEncontrados\LugaresEncontrados\bin\LugaresEncontrados.dll.config
+C:\Users\alumno\Documents\GitHub\VamoaComer\LugaresEncontrados\LugaresEncontrados\bin\LugaresEncontrados.dll
+C:\Users\alumno\Documents\GitHub\VamoaComer\LugaresEncontrados\LugaresEncontrados\bin\LugaresEncontrados.pdb
+C:\Users\alumno\Documents\GitHub\VamoaComer\LugaresEncontrados\LugaresEncontrados\obj\Debug\LugaresEncontrados.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\GitHub\VamoaComer\LugaresEncontrados\LugaresEncontrados\obj\Debug\LugaresEncontrados.dll
+C:\Users\alumno\Documents\GitHub\VamoaComer\LugaresEncontrados\LugaresEncontrados\obj\Debug\LugaresEncontrados.pdb
