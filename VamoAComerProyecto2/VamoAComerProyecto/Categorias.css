@@ -18,18 +18,24 @@ header{
 hl{
 	font-size:40px;
 }
-#gg1 {
-  position: relative;
-  transition-property: background-image, color;
-  transition-duration: 3s;
-  
- 
- 
-}
+.prueba2 {
+   margin: 10px;
+   width: 200px;
+   height: 200px;
+   background-color: #f00;
+   border: 1px solid #666;
+   transition-property: width, height, background-color;
+   transition-duration: 0.5s, 1s, 1s;
+   transition-timing-function: ease, ease-out;
+   transition-delay: 0s ,0.5s, 1.5s;
+  }
+   .prueba2:hover {
+      width: 400px;
+      height: 300px;
+      background-color: #fc0;
+      transition-property: width, height, background-color;
+      transition-duration: 0.5s, 0.5s, 0.5s;
+      transition-timing-function: linear, linear;
+      transition-delay: 0s ,0.5s, 0.5s;
+   }
 
-#gg1:hover {
-  position: relative;
-  transition-property: background-color, color;
-  transition-duration: 3s;
-
-}

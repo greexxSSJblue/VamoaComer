@@ -8,6 +8,23 @@
     <title></title>
     <style>
         .head {
+            padding: 40px 40px 20px 40px;           
+            font-size:20px;
+            color: #fff;
+  position: relative;
+  transition-property: font-size;
+  transition-duration: 4s;
+  transition-delay: 2s;
+  background:#550F03;
+}
+
+#delay1:hover {
+  transition-property: font-size;
+  transition-duration: 4s;
+  transition-delay: 2s;
+  background:gray;
+}
+        .head {
             
             padding: 40px 40px 20px 40px;           
             font-size:20px;
@@ -66,7 +83,7 @@
                 <a class="head"  href="Categorias.aspx">Categorías</a>
                 <a class="head"  href="Busqueda.aspx">Búsqueda</a>
                 <a class="head" href="Promo.aspx">Promociones</a>  
-                <a class="head" href="oferta.aspx">Iniciar Cesion</a> 
+                 
             </div>
 
             </div>
