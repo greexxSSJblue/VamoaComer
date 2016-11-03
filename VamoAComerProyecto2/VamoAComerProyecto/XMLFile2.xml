@@ -1,14 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Promociones>
   <Promo>
-    <Imagen>http://www.kfc.com.pe/adjunto/upload/contenido/imagen/promocion/nuevopollopicante.jpg</Imagen>
+    <Info>Pollo frito</Info>
+    <Imagen>http://a2.files.biography.com/image/upload/c_fill,cs_srgb,dpr_1.0,g_face,h_300,q_80,w_300/MTE4MDAzNDEwMjc1NTAxNTgy.jpg</Imagen>
     <url>http://www.kfc.com.pe</url>
   </Promo>
   <Promo>
+    <Info>Comida China</Info>
     <Imagen>http://www.chinawok.com.pe/imagenes/deliveries/Delivery-F.png</Imagen>
     <url>http://www.chinawok.com.pe</url>
   </Promo>
   <Promo>
+    <Info>Comida Italiana</Info>
     <Imagen>https://www.pizzahut.com.pe/Imagenes/BOTONERA%20HOME%20OFERTA%20ONLINE%20WEB%204.jpg</Imagen>
     <url>http://limadelivery.com</url>
   </Promo>
