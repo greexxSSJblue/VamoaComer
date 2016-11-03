@@ -50,7 +50,4 @@
 
     </div>
 
-    <footer>
-        Vamo a comer&copy
-    </footer>
 </asp:Content>

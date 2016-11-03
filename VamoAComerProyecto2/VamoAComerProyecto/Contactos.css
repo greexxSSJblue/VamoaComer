@@ -37,8 +37,9 @@ header{
 }
 #bloqueizq{
 	float:left;
-	width:49%;
+	width:50%;
 	text-align:center;
+    background-color:#ccc;
 }
 #bloqueder{
 	float:right;
