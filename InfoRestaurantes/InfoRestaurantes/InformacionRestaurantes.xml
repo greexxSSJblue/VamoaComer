@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Informacion>
+  <Restaurantes>
+    <Imagen>https://pbs.twimg.com/profile_images/601153967171772416/Evt6ATHg.jpg</Imagen>
+    <Nombre>Pardos chicken</Nombre>
+    <especialidad>Pollo y Parrilla</especialidad>
+    <Descripcion>Actualmente, creemos que la combinación de los generosos ingredientes peruanos que empleamos sigue siendo el principal activo que nos permite estar presentes en el país con veintisiete restaurantes (dos en Trujillo y uno en Chiclayo) 
+                 y exponer con pasión parte de nuestra cultura culinaria en el exterior.Por su auténtico sabor, nos sentimos orgullosos de ser tan peruanos como el pollo a la brasa. Y convencidos de su valor como Patrimonio 
+                 Cultural de la Nación y riquísimo aporte a nuestra historia culinaria,nos satisface seguir ofreciéndoles a nuestros invitados la deliciosa experiencia de saborearlo con orgullo, pasión y felicidad.</Descripcion>
+    <Horarios> Lunes a Domingo de 12:00 - 23:00 </Horarios>
+  </Restaurantes>
+
+  <Restaurantes>
+    <Imagen>http://cde.3.elcomercio.pe/ima/0/1/4/5/3/1453425/base_image.jpg</Imagen>
+    <Nombre>San Ceferino Trattoria</Nombre>
+    <Especialidad>Pastas</Especialidad>
+    <Descripcion>Sus inicios se remontan a la típica trattoria Italiana;sin embargo, con el paso del tiempo su original carta de
+                 pastas ha migrado hacia una singular fusión con la comida Peruana y con la Internacional.
+    </Descripcion>
+    <Horarios> Lunes a Sabado 12:00 - 00:00
+               Domingos y Feriados 12:00 - 22:00
+    </Horarios>
+  </Restaurantes>
+
+  <Restaurantes>
+    <Imagen>http://www.guiadegusta.com/webservice/getxRestaurante.pais7.w1200.h628.q80.titi_1_foto-r-0.jpg</Imagen>
+    <Nombre>Chifa Titi</Nombre>
+    <Especialidad>Comida China</Especialidad>
+    <Descripcion>La comida no era muy elaborada, la sazón; muy buena pero era más bien casera,
+                 el trato personal y el estilo de comida permitía que el cliente se sintiera como en familia.
+    </Descripcion>
+    <Horarios>Martes a Sabado 13:00 a 15:00 - 19:00 a 22:00
+              Domingo 13:00 a 15:30 - 19:00 a 21:00
+    </Horarios>
+  </Restaurantes>
+
+  <Restaurantes>
+    <Imagen></Imagen>
+    <Nombre>Punto Azul</Nombre>
+    <Especialidad>Pescado y Mariscos</Especialidad>
+    <Descripcion>
+      Punto Azul, una gran familia dedicada a brindarles la mejor experiencia culinaria con la pasión que nos caracteriza.
+      Cada una de las personas en nuestro equipo está comprometida a transportarte mediante nuestros sabores a una aventura memorable.
+      Tenemos siempre presente los orígenes de nuestros productos, manteniendo el respeto hacia ellos y a lo que nos rodea.
+    </Descripcion>
+    <Horarios>Martes – Viernes 11 am. – 4 pm.
+              Sábado – Domingo 11 am. – 5 pm.
+    </Horarios>
+  </Restaurantes>
+
+  <Restaurantes>
+    <Imagen>http://www.limamentor.com/wp-content/uploads/2015/01/021.jpg</Imagen>
+    <Nombre>Café del Museo Larco</Nombre>
+    <Especialidad>Bebidas y Comida Tradicional</Especialidad>
+    <Descripcion>
+      El Museo Larco Café/restaurant busca dar a los visitantes una muestra
+      de la mejor Gastronomía Peruana e Internacional en un amibente mágico
+      y acogedor; platos frios y calientes, ensaladas, pasteles y postres,
+      asi como bebidas frias y calientes, pisco sour, vino y cerveza.
+    </Descripcion>
+    <Horarios>Lunes a Domingos 9:00 a 22:00 </Horarios>
+  </Restaurantes>
+
+  <Restaurantes>
+    <Imagen>https://www.atrapalo.pe/common/photo/res/15846/0/ticr_890_370.jpg</Imagen>
+    <Nombre>Puro Perú</Nombre>
+    <Especialidad>Comida Criolla(Buffet)</Especialidad>
+    <Descripcion>Salimos con variados y exclusivos platos a base de insumos peruanos,
+                 una nueva propuesta con originales variedades culinarias de nuestras regiones del Perú,
+                 destacando nuestros pescados y mariscos, comida criolla, platos calientes, ensaladas, salteados y chaufas,
+                 pastas, sushi y rolls, flambeados, y exquisitos postres.
+    </Descripcion>
+    <Horarios>martes a sábado de 12 m. a 5 p.m.</Horarios>
+  </Restaurantes>
+</Informacion>

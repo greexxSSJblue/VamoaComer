@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Ver_InfoRestaurante.aspx" />
     <Content Include="InfoRestaurante.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -68,14 +69,24 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
-    <Content Include="XMLFile1.xml" />
+    <Content Include="InformacionRestaurantes.xml">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ver_InfoRestaurante.aspx.cs">
+      <DependentUpon>Ver_InfoRestaurante.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ver_InfoRestaurante.aspx.designer.cs">
+      <DependentUpon>Ver_InfoRestaurante.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="InfoRestaurante.Master.cs">
       <DependentUpon>InfoRestaurante.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="InfoRestaurante.Master.designer.cs">
       <DependentUpon>InfoRestaurante.Master</DependentUpon>
