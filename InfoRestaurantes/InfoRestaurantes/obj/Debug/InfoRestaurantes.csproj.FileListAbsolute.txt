@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\GitHub\VamoaComer\InfoRestaurantes\InfoRestaurantes\bin\InfoRestaurantes.dll.config
+C:\Users\USER\Documents\GitHub\VamoaComer\InfoRestaurantes\InfoRestaurantes\bin\InfoRestaurantes.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\InfoRestaurantes\InfoRestaurantes\bin\InfoRestaurantes.pdb
+C:\Users\USER\Documents\GitHub\VamoaComer\InfoRestaurantes\InfoRestaurantes\obj\Debug\InfoRestaurantes.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\VamoaComer\InfoRestaurantes\InfoRestaurantes\obj\Debug\InfoRestaurantes.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\InfoRestaurantes\InfoRestaurantes\obj\Debug\InfoRestaurantes.pdb

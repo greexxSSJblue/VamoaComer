@@ -1,13 +1,9 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="Contactos.aspx.cs" Inherits="VamoAComerProyecto.Contactos" %>
-
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="MiCuenta.aspx.cs" Inherits="VamoAComerProyecto.MiCuenta" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-
-    <link href="Contactos.css" rel="stylesheet" />
-    <div id="bloqueizq">
-        <img src="https://secretariasmodernas.files.wordpress.com/2011/04/ejecutiva.jpg" />
-    </div>
+    <link href="MiCuenta.css" rel="stylesheet" />
     <div id="bloqueder">
-        <h2>Formulario de contacto</h2>
+        <h1>Registrarte </h1>
+        <h3> Es y siempre sera gratis</h3>
         <div class="fila">
             <label for="nombre">Nombre: </label>
             <input id="nombre" type="text" name="nombre" placeholder="Escribe tu nombre" />
@@ -49,5 +45,4 @@
         </ul>
 
     </div>
-
-</asp:Content>
+   </asp:Content>

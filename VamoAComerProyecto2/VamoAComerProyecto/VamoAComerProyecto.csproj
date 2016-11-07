@@ -59,6 +59,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Index.aspx" />
+    <Content Include="MiCuenta.aspx" />
+    <Content Include="MiCuenta.css" />
     <Content Include="Principal.Master" />
     <Content Include="XMLFile1.xml" />
     <Content Include="XMLFile2.xml" />
@@ -74,7 +76,9 @@
     <Content Include="Busqueda.aspx" />
     <Content Include="Categorias.aspx" />
     <Content Include="Categorias.css" />
-    <Content Include="categoria_datos.xml" />
+    <Content Include="categoria_datos.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Contactos.aspx" />
     <Content Include="Contactos.css" />
     <Content Include="Global.asax" />
@@ -115,6 +119,13 @@
     </Compile>
     <Compile Include="Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MiCuenta.aspx.cs">
+      <DependentUpon>MiCuenta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MiCuenta.aspx.designer.cs">
+      <DependentUpon>MiCuenta.aspx</DependentUpon>
     </Compile>
     <Compile Include="Nosotros.aspx.cs">
       <DependentUpon>Nosotros.aspx</DependentUpon>
