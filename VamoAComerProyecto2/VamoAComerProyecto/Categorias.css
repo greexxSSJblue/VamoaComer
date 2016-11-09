@@ -8,7 +8,7 @@
     
     text-align:center;
     background-color:#ccc;
-   
+   margin-left:75px;
 }
 
 hl{
@@ -47,7 +47,6 @@ hl{
 -o-transition:all .9s ease; /* IE 9 */
 -ms-transition:all .9s ease; /* Opera */
 width:100%;
-border-radius:10px;
 }
     #image:hover {
         -webkit-transform: scale(1.25);

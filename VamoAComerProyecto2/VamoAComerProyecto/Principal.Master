@@ -16,6 +16,11 @@
   transition-duration: 4s;
   transition-delay: 2s;
   background:#550F03;
+  -webkit-transition: all .25s ease;
+                -moz-transition: all .25s ease;
+                -ms-transition: all .25s ease;
+                -o-transition: all .25s ease;
+                transition: all .25s ease;
 }
         #GG {
         background-color:#550F03;padding:22px ;
@@ -24,7 +29,7 @@
   transition-property: font-size;
   transition-duration: 4s;
   transition-delay: 2s;
-  opacity:.9;
+  background-color:#808080;
 }
        
 
@@ -65,7 +70,7 @@
         body{
             margin:0px;
         }
-        /* aside*/
+        /* aside
         
 section.interno{width:75%;}
 .asideWrapper{
@@ -110,7 +115,7 @@ section.interno{width:75%;}
             border-radius:20px;
             text-align:center;
                     
-        }
+        }*/
 
     </style>
 </head>
@@ -127,32 +132,15 @@ section.interno{width:75%;}
                 <a class="head"  href="Categorias.aspx">Categorías</a>
                 <a class="head"  href="Busqueda.aspx">Búsqueda</a>
                 <a class="head" href="Promo.aspx">Promociones</a>  
+                <a class="head" href="pruebaparamaster2.aspx">prueba del master 2</a>
                  
             </div>
 
             </div>
             
         </header>
-        <aside class="general">
-            
-            <div class="asideWrapper">
-                <a  href="" ><img id="fotoperfil"src="hahahsh.gif" /></a>
-                <input id="boton" type="submit" value="Actualizar foto de perfil" />
-        	        <div class="lateral">
-        	            <h4>Seccion de favoritos</h4>
-        	            <a href="#">Lugares</a>
-        	            <a href="#">Ofertas</a>
-        	            <a href="#">Comentarios</a>
-        	            
-        	        </div>
-        	        <div class="lateral">
-        	            <h4>Datos</h4>
-        	            <a href="#">Nombre</a>
-        	            
-        	        </div>
-        	        
-        	    </div>
-        </aside>
+
+       
         <section class="general2">
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
