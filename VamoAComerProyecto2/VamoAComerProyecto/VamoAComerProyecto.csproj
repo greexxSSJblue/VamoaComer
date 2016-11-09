@@ -63,10 +63,12 @@
     <Content Include="MiCuenta.css" />
     <Content Include="Principal.Master" />
     <Content Include="pruebaparamaster2.aspx" />
+    <Content Include="InformacionRestaurantes.aspx" />
     <Content Include="XMLFile1.xml" />
     <Content Include="XMLFile2.xml" />
     <Content Include="BlackBoard.ttf" />
     <Content Include="Principal2.Master" />
+    <Content Include="ArchivoRestaurantes.xml" />
     <None Include="Properties\PublishProfiles\VamoaComer.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -165,6 +167,13 @@
     </Compile>
     <Compile Include="pruebaparamaster2.aspx.designer.cs">
       <DependentUpon>pruebaparamaster2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InformacionRestaurantes.aspx.cs">
+      <DependentUpon>InformacionRestaurantes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InformacionRestaurantes.aspx.designer.cs">
+      <DependentUpon>InformacionRestaurantes.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
