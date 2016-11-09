@@ -5,21 +5,10 @@ hl{
 	font-size:40px;
 	text-align:center;
 }
-footer{
-	margin:0 auto;
-	text-align:center;
-	clear:both;
-	border-top:2px solid green;
-	background-color:orange;
-	padding-top:20px;
-	
-	
+span {
+    text-align:center;
 }
-header{
-	background-color:orange;
-	border-bottom:2px solid green;
-	text-align:center;
-}
+
 .fila{
                 
     margin: 10px 0;

@@ -7,69 +7,74 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title></title>
     <style>
-        .head {
-            padding: 40px 40px 20px 40px;           
-            font-size:20px;
-            color: #fff;
-  position: relative;
-  transition-property: font-size;
-  transition-duration: 4s;
-  transition-delay: 2s;
-  background:#550F03;
-  -webkit-transition: all .25s ease;
-                -moz-transition: all .25s ease;
-                -ms-transition: all .25s ease;
-                -o-transition: all .25s ease;
-                transition: all .25s ease;
-}
-        #GG {
-        background-color:#550F03;padding:22px ;
+        body {
+        background-color:#ccc; 
         }
-.head:hover {
-  transition-property: font-size;
-  transition-duration: 4s;
-  transition-delay: 2s;
-  background-color:#808080;
-}
+        .head {
+         padding:22px 5px ;           
+         font-size:20px;
+         color: #fff;
+         position: relative;
+         transition-property: font-size;
+         transition-duration: 4s;
+         transition-delay: 2s;
+         background:#550F03;
+         -webkit-transition: all .25s ease;
+         -moz-transition: all .25s ease;
+         -ms-transition: all .25s ease;
+         -o-transition: all .25s ease;
+         transition: all .25s ease;
+         margin:0px;
+                
+        }
+        #GG {
+        background-color:#550F03;padding:22px;
+        }
+        .head:hover {
+          transition-property: font-size;
+          transition-duration: 4s;
+          transition-delay: 2s;
+          background-color:#808080;
+        }
        
 
-        .pie {
-    padding: 69px 0 0 0;
-    width: 962px;
-    margin: auto;
-}
-        .left {
-    float: left;
-}
-        .right {
-    float: right;
-}
-        .clear {
-    clear: both;
-}
-        .pie2 {
-    border-top: solid 1px #9A0000;
-    border-bottom: solid 1px #9A0000;
-    padding: 14px 0 14px 179px;
-    margin: 18px 0 18px 0;
-    text-align:center;
-}
-        .copy {
-    text-align: center;
-    color: #4D4D4D;
-    font-size: 11px;
-    margin: 0 0 14px 0;
-    font-family: Arial, Helvetica, sans-serif;
-}
-        a, img {
-    border: 0px;
-    outline: 0px;
-    text-decoration: none;
-    padding:5px;
-}
-        body{
-            margin:0px;
-        }
+            .pie {
+        padding: 69px 0 0 0;
+        width: 962px;
+        margin: auto;
+    }
+            .left {
+        float: left;
+    }
+            .right {
+        float: right;
+    }
+            .clear {
+        clear: both;
+    }
+            .pie2 {
+        border-top: solid 1px #9A0000;
+        border-bottom: solid 1px #9A0000;
+        padding: 14px 0 14px 179px;
+        margin: 18px 0 18px 0;
+        text-align:center;
+    }
+            .copy {
+        text-align: center;
+        color: #4D4D4D;
+        font-size: 11px;
+        margin: 0 0 14px 0;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+            a, img {
+        border: 0px;
+        outline: 0px;
+        text-decoration: none;
+        padding:5px;
+    }
+            body{
+                margin:0px;
+            }
         /* aside
         
 section.interno{width:75%;}
@@ -127,13 +132,15 @@ section.interno{width:75%;}
                 <img id="gg" src="3_White_logo_on_color1_257x75.png" style="width:200px"/>
             </div>
             <div id="GG" >    
+                <nav>
                 <a class="head" href="Nosotros.aspx">Quiénes somos?</a>
                 <a class="head" href="Contactos.aspx">Contáctenos</a>
                 <a class="head"  href="Categorias.aspx">Categorías</a>
                 <a class="head"  href="Busqueda.aspx">Búsqueda</a>
                 <a class="head" href="Promo.aspx">Promociones</a>  
-                <a class="head" href="pruebaparamaster2.aspx">prueba del master 2</a>
-                 
+                <a class="head" href="pruebaparamaster2.aspx">Iniciar sesion</a>
+                </nav>
+                
             </div>
 
             </div>
