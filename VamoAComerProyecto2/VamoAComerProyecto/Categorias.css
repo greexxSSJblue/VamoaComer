@@ -8,7 +8,7 @@
     
     text-align:center;
     background-color:#ccc;
-   margin-left:20px;
+   margin-left:75px;
 }
 
 hl{
@@ -48,16 +48,22 @@ hl{
 -ms-transition:all .9s ease; /* Opera */
 width:100%;
 }
-#image:hover {
--webkit-transform:scale(1.25);
--moz-transform:scale(1.25);
--ms-transform:scale(1.25);
--o-transform:scale(1.25);
-transform:scale(1.25);
-padding-bottom:30px;
-}
+    #image:hover {
+        -webkit-transform: scale(1.25);
+        -moz-transform: scale(1.25);
+        -ms-transform: scale(1.25);
+        -o-transform: scale(1.25);
+        transform: scale(1.25);
+        padding-bottom: 30px;
+         opacity :0.5;
+        box-shadow: rgba(0, 0, 0, 0.329412) 0px 1px 3px 0px;
+        cursor: pointer;
+    }
 #abajo {
 float: right;
+text-align:center;
+font-family:'BlackBoard';
+
 }
  
  
