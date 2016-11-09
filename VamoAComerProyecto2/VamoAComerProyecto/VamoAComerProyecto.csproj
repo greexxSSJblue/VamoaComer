@@ -65,6 +65,7 @@
     <Content Include="XMLFile1.xml" />
     <Content Include="XMLFile2.xml" />
     <Content Include="BlackBoard.ttf" />
+    <None Include="Properties\PublishProfiles\VamoaComer.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

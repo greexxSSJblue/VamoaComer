@@ -1,0 +1,66 @@
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\ApplicationInsights.config
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\roslyn\csc.exe
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\roslyn\System.Collections.Immutable.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\roslyn\vbc.exe
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\roslyn\VBCSCompiler.exe
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\roslyn\VBCSCompiler.exe.config
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\principal.dll.config
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\principal.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\principal.pdb
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\Microsoft.AI.Web.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\Microsoft.AI.WindowsServer.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\Microsoft.ApplicationInsights.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\Microsoft.AI.Web.xml
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\Microsoft.AI.WindowsServer.xml
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\Microsoft.ApplicationInsights.xml
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\obj\Debug\principal.csprojResolveAssemblyReference.cache
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\obj\Debug\principal.dll
+c:\users\roger castillo inga\documents\visual studio 2015\Projects\principal\principal\obj\Debug\principal.pdb
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\ApplicationInsights.config
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\csc.exe
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\principal.dll.config
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\principal.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\principal.pdb
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\obj\Debug\principal.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\obj\Debug\principal.dll
+C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\obj\Debug\principal.pdb

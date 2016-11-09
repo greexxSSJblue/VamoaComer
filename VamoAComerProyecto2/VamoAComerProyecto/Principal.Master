@@ -106,7 +106,7 @@
     
     <div class="pie2" align="center">
     	<a href="Nosotros.aspx">Quienes Somos?</a>
-        <a href="inicio">Mi Cuenta </a>
+        <a href="MiCuenta.aspx">Mi Cuenta </a>
         <a href="Contactos.aspx">Contactenos</a>
         <a href="contrato">Terminos y Condiciones</a>
         <a href="politica" style="margin:0px;">Politicas de la empresa</a>

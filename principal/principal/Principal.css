@@ -1,0 +1,185 @@
+﻿body {
+    font-family: inherit;
+    font-size: 14px;
+    color: #242222;
+    background: #ffffff;
+    margin: 0;
+}
+
+header {
+    height: 70px;
+    margin: 0;
+    display: block;
+    background: #5a0e0e;
+}
+
+.cabeza {
+    display: block;
+    height: 70px;
+    margin: 0;
+}
+
+#logo {
+    width: 29%;
+    float: left;
+    padding-bottom: 3px;
+    top: 0px;
+}
+
+#menu {
+    width: 64%;
+    margin-left: 29%;
+}
+
+    #menu ul {
+        background: gray;
+        list-style: none;
+        width: 100%;
+        height: 70px;
+        margin-left: 1px;
+        margin-bottom: 0px;
+    }
+
+        #menu ul li {
+            background: #5a0e0e;
+            width: 20%;
+            float: left;
+            display: table-cell;
+            vertical-align: middle;
+            height: 70px;
+            margin: 0 0 0 0px;
+        }
+
+            #menu ul li a {
+                width: 100%;
+                color: #FFFFFF;
+                line-height: 70px;
+                font: bold 15px/20px Open sans;
+                text-decoration: none;
+                -webkit-transition: all .25s ease;
+                -moz-transition: all .25s ease;
+                -ms-transition: all .25s ease;
+                -o-transition: all .25s ease;
+                transition: all .25s ease;
+            }
+
+    #menu li:hover {
+        background: gray;
+    }
+
+#log-1 {
+    float: right;
+    width: 15%;
+    margin-right: 15px;
+}
+
+    #log-1 ul {
+        background: gray;
+        list-style: none;
+        width: 100%;
+        height: 100%;
+        margin-left: 0px;
+    }
+
+        #log-1 ul li {
+            background: #5a0e0e;
+            margin: 0;
+            padding: 20px 0;
+            width: 100%;
+            display: table-cell;
+            height: 100%;
+            line-height: 70px;
+        }
+
+            #log-1 ul li a {
+                color: #FFFFFF;
+                display: block;
+                line-height: 70px;
+                font: bold 12px/20px sans-serif;
+                text-align: center;
+                text-decoration: none;
+                -webkit-transition: all .25s ease;
+                -moz-transition: all .25s ease;
+                -ms-transition: all .25s ease;
+                -o-transition: all .25s ease;
+                transition: all .25s ease;
+                /*height:70px;*/
+            }
+
+    #log-1 li:hover {
+        background: gray;
+    }
+
+#contenedor {
+    width: 100%;
+    height: 1200px;
+    margin: 0;
+}
+
+.c-1 {
+    border: 2px solid blue;
+    margin: 0;
+    width: 100%;
+}
+
+#s1 {
+    background-image: url("http://comidasperuanas.net/wp-content/uploads/2016/01/Comidas-Peruanas.jpg");
+    background-size: 100%;
+    height: 400px;
+}
+
+    #s1 h1, h2 {
+        text-align: center;
+        line-height: 50px;
+        word-spacing: 3px;
+    }
+
+    #s1 h1 {
+        color: #5a0e0e;
+        text-align: center;
+        font-family: 'Brush Script MT';
+        font-size: 150px;
+    }
+
+    #s1 h2 {
+        font-size: 30px;
+        text-align: justify;
+    }
+
+#cont-2 {
+    padding: 0 100px;
+    margin: 0;
+    border: 2px solid blue;
+}
+
+.p {
+    width: 100%;
+    height:400px;
+    display: block;
+}
+
+#s2 {
+    position: absolute;
+    border:2px solid green;
+}
+#art{
+    margin:0 40px; 
+    border:2px solid red;
+}
+
+#art h2 {
+    border:2px solid blue;
+    float: none;
+    text-align: left;
+    font-size: 3.167em;
+    line-height: 1em;
+    margin: 0 0 15px;
+}
+#art p{
+    border:2px solid blue;
+    margin: 0 0 15px;
+    font-size:20px;
+    line-height:1.3em;
+    text-align:justify;
+}
+

@@ -1,0 +1,48 @@
+﻿body{
+	font-family:arial;
+}
+hl{
+	font-size:40px;
+	text-align:center;
+}
+footer{
+	margin:0 auto;
+	text-align:center;
+	clear:both;
+	border-top:2px solid green;
+	background-color:orange;
+	padding-top:20px;
+	
+	
+}
+header{
+	background-color:orange;
+	border-bottom:2px solid green;
+	text-align:center;
+}
+.fila{
+                
+    margin: 10px 0;
+}
+.fila label:first-child{
+    float:left;
+    width:250px;
+    text-align:right;
+    margin-right:10px;
+                
+}
+.fila:last-child{
+    text-align:center;
+                
+}
+#bloqueizq{
+	float:left;
+	width:50%;
+	text-align:center;
+    background-color:#ccc;
+}
+#bloqueder{
+	float:right;
+	width:50%;
+	background-color:#ccc;
+}

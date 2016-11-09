@@ -1,0 +1,49 @@
+﻿body {
+    font-family:arial;
+   
+    background-color:#ccc;
+}
+#principal {
+    
+    text-align:center;
+    background-color:#ccc;
+   margin-left:10px;
+}
+
+hl{
+	font-size:40px;
+}
+.prueba2 {
+   margin: 10px;
+   width: 180px;
+   height: 180px;
+   
+   border: 1px solid #666;
+   transition-property: width, height, background-color;
+   transition-duration: 0.5s, 0.5s, 0.5s;
+   transition-timing-function: ease, ease-out;
+   transition-delay: 0s ,0.5s, 1.5s;
+   
+  }
+   .prueba2:hover {
+      width: 200px;
+      height: 200px;
+      
+      transition-property: width, height, background-color;
+      transition-duration: 0.5s, 0.5s, 0.5s;
+      transition-timing-function: linear, linear;
+      transition-delay: 0s ,0.5s, 0.5s;
+     
+   }
+   
+ 
+ 
+
+#sf {
+-moz-transition: all 1s ease-in-out;
+  -webkit-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+  opacity:1;filter:alpha(opacity=100);
+
+}

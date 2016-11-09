@@ -5,7 +5,14 @@
     <div id="principal">
         <asp:DataList RepeatColumns="3" ID="DataList1" runat="server" DataSourceID="XmlDataSource1">
             <ItemTemplate>
-                <div class="prueba2" style="background-position: center; background-image: url(<%#XPath("imagen") %>); color: black; padding:100px;background-size:500px; font-size: 50px; text-align: center; margin: 10px"><%#XPath("nombre") %></div>
+                <div class="ind">
+                    <div id="arriba">
+                        <img id="image" src="<%#XPath("imagen") %>" />
+                    </div>
+                    <div id="abajo">
+                        </div><%#XPath("nombre") %>
+                    </div>
+                </div>
                 
 
 

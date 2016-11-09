@@ -4,14 +4,18 @@
     <section>
         <asp:DataList ID="DataList1" RepeatColumns="3" Width="100%" runat="server" DataSourceID="XmlDataSource1">
             <ItemTemplate>
-
-                <h3><%#XPath("Nombre") %></h3>
+                <div id="izqui" style="float:left; width: 150px">
+                    <h3><%#XPath("Nombre") %></h3>
                 <img src="<%#XPath("Imagen")%>" width="350" />
-                <p>Horario: <%#XPath("Horario") %></p>
+                </div>
+                <div id="derecho"style="margin-left:250px">
+<p>Horario: <%#XPath("Horario") %></p>
                 <p>Telefono: <%#XPath("Telefono") %></p>
                 <p>Puntuación:</p>
                 <img src="<%#XPath("Puntuacion")%>" width="150" />
                 <p><%#XPath("Comentarios") %> <a href="">ver</a></p>
+                </div>
+           
 
 
                 <asp:Button ID="Button1" runat="server" Text="Sitio web" />
