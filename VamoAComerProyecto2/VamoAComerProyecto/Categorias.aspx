@@ -3,14 +3,23 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <link href="Categorias.css" rel="stylesheet" />
     <div id="principal">
+        <h2>
+                <span >
+                        Elige tu restaurante en lima                     
+                    
+                </span>
+            </h2>
         <asp:DataList RepeatColumns="3" ID="DataList1" runat="server" DataSourceID="XmlDataSource1">
             <ItemTemplate>
                 <div class="ind">
                     <div id="arriba">
-                        <img id="image" src="<%#XPath("imagen") %>" />
+                        <a href="" ><img id="image" src="<%#XPath("imagen") %>" /></a>
                     </div>
                     <div id="abajo">
-                        </div><%#XPath("nombre") %>
+                        <a href=""><%#XPath("nombre") %></a>
+                     
+                        
+                        </div>
                     </div>
                 </div>
                 
