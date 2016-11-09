@@ -24,7 +24,7 @@
          -ms-transition: all .25s ease;
          -o-transition: all .25s ease;
          transition: all .25s ease;
-         margin:0px;
+         margin:0px ;  
                 
         }
         #GG {
