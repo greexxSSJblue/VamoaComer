@@ -64,3 +64,36 @@ C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.Code
 C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\obj\Debug\principal.csprojResolveAssemblyReference.cache
 C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\obj\Debug\principal.dll
 C:\Users\USER\Documents\GitHub\VamoaComer\principal\principal\obj\Debug\principal.pdb
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\ApplicationInsights.config
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\csc.exe
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\vbc.exe
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\principal.dll.config
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\principal.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\principal.pdb
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.Web.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.Web.xml
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\obj\Debug\principal.csprojResolveAssemblyReference.cache
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\obj\Debug\principal.dll
+C:\Users\Roger Castillo Inga\Documents\GitHub\VamoaComer\principal\principal\obj\Debug\principal.pdb
