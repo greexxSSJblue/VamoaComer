@@ -58,6 +58,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Busqueda.css" />
     <Content Include="Index.aspx" />
     <Content Include="MiCuenta.aspx" />
     <Content Include="MiCuenta.css" />

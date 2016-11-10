@@ -1,0 +1,55 @@
+﻿body {
+}
+
+#buscar {
+    margin-top: 50px;
+    float: left;
+    margin-left: 50px;
+}
+
+#imagen1{
+    float:right;
+    margin-right:50px;
+   
+}
+
+#restaurantes {
+    float: right;
+    margin-right: 50px;
+}
+
+
+    #restaurantes #imagen {
+        float: left;
+    }
+
+    #restaurantes #info {
+        float: right;
+    }
+
+    #restaurantes #boton {
+        float: left;
+    }
+
+    #restaurantes tr {
+        border-bottom: 2px solid #808080;
+        margin-left: 100px;
+    }
+
+    #restaurantes td {
+        margin-left: 100px;
+    }
+
+#frecuentes {
+    margin-top: 50px;
+    float: left;
+    margin-left: 10px;
+}
+
+#zona {
+    columns: 3;
+}
+
+#tipo {
+    columns: 3;
+}

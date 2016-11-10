@@ -28,3 +28,9 @@ C:\Users\alumno\Documents\Nueva carpeta\VamoaComer\VamoAComerProyecto2\VamoACome
 C:\Users\alumno\Documents\Nueva carpeta\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\obj\Debug\VamoAComerProyecto.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Documents\Nueva carpeta\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\obj\Debug\VamoAComerProyecto.dll
 C:\Users\alumno\Documents\Nueva carpeta\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\obj\Debug\VamoAComerProyecto.pdb
+C:\Users\alumno\Documents\GitHub\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\bin\VamoAComerProyecto.dll.config
+C:\Users\alumno\Documents\GitHub\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\bin\VamoAComerProyecto.dll
+C:\Users\alumno\Documents\GitHub\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\bin\VamoAComerProyecto.pdb
+C:\Users\alumno\Documents\GitHub\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\obj\Debug\VamoAComerProyecto.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\GitHub\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\obj\Debug\VamoAComerProyecto.dll
+C:\Users\alumno\Documents\GitHub\VamoaComer\VamoAComerProyecto2\VamoAComerProyecto\obj\Debug\VamoAComerProyecto.pdb
