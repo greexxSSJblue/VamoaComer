@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
      <link href="MiCuenta.css" rel="stylesheet" />
     <div id="bloqueizq">
-        <img src="https://s-media-cache-ak0.pinimg.com/564x/c3/74/e3/c374e382d4ce8051e356018016333828.jpg" />
+        <img id="ca" src="https://s-media-cache-ak0.pinimg.com/564x/c3/74/e3/c374e382d4ce8051e356018016333828.jpg" />
     </div>
     <div id="bloqueder">
         <h1>Registrarte </h1>
