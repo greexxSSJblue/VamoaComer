@@ -1,0 +1,69 @@
+﻿body {
+    font-family:arial;
+   margin:0px;
+    background-color:#ccc;
+    
+}
+#principal {
+    
+    text-align:center;
+    background-color:#ccc;
+   margin-left:75px;
+}
+
+hl{
+	font-size:40px;
+}
+.ind{
+    width:300px;
+    margin:8px;
+    padding:20px;
+}
+#image {
+   
+   border-radius:10px;
+   
+   transition-property: width, height, background-color;
+   transition-duration: 0.5s, 0.5s, 0.5s;
+   transition-timing-function: ease, ease-out;
+   transition-delay: 0s ,0.5s, 1.5s;
+   
+  }
+/*
+  #image:hover {
+      width: 350px;
+      height: 350px;
+      opacity:0.6;
+      transition-property: width, height, background-color;
+      transition-duration: 0.5s, 0.5s, 0.5s;
+      transition-timing-function: linear, linear;
+      transition-delay: 0s ,0.5s, 0.5s;
+     
+   }*/
+  #image {
+-webkit-transition:all .9s ease; /* Safari y Chrome */
+-moz-transition:all .9s ease; /* Firefox */
+-o-transition:all .9s ease; /* IE 9 */
+-ms-transition:all .9s ease; /* Opera */
+width:100%;
+}
+    #image:hover {
+        -webkit-transform: scale(1.25);
+        -moz-transform: scale(1.25);
+        -ms-transform: scale(1.25);
+        -o-transform: scale(1.25);
+        transform: scale(1.25);
+        padding-bottom: 30px;
+         opacity :0.5;
+        box-shadow: rgba(0, 0, 0, 0.329412) 0px 1px 3px 0px;
+        cursor: pointer;
+    }
+#abajo {
+
+text-align:center;
+font-family:'Cambria Math';
+
+}
+span {
+    text-align:center;
+}

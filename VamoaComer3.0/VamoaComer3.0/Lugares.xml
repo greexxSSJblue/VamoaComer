@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Lugares>
+  <Lugar>
+    <Nombre>El chino</Nombre>
+    <Puntuacion>http://www.viajaraitalia.com/wp-content/uploads/2012/06/hoteles-4-estrellas-napoles.png</Puntuacion>
+    <Imagen>https://img.buzzfeed.com/buzzfeed-static/static/2016-03/4/14/enhanced/webdr05/grid-cell-20993-1457120411-7.jpg</Imagen>
+    <Comentarios>Comentarios(14)</Comentarios>
+    <Horario>Lun-Sab: 12-23h</Horario>
+    <Telefono> (01) 123456 </Telefono>
+  </Lugar>
+
+  <Lugar>
+    <Nombre>El rincón de Blades</Nombre>
+    <Puntuacion>http://www.viajaraitalia.com/wp-content/uploads/2012/06/hoteles-4-estrellas-napoles.png</Puntuacion>
+    <Imagen>https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2013/10/24/mixcomidasgaston.jpg</Imagen>
+    <Comentarios>Comentarios(34)</Comentarios>
+    <Direccion>La molina</Direccion>
+    <Horario>Lun-Dom: 1-20h</Horario>
+    <Telefono> (01) 654123</Telefono>
+  </Lugar>
+
+  <Lugar>
+    <Nombre>El japones</Nombre>
+    <Puntuacion>http://www.viajaraitalia.com/wp-content/uploads/2012/06/hoteles-4-estrellas-napoles.png</Puntuacion>
+    <Imagen>http://www.hotelaleman.com.pe/wp-content/uploads/2016/03/comida-japonesa.jpg</Imagen>
+    <Comentarios>Comentarios(20)</Comentarios>
+    <Direccion>La molina</Direccion>
+    <Horario>Lun-Vie: 15-22h</Horario>
+    <Telefono> (01) 643125 </Telefono>
+  </Lugar>
+
+  <Lugar>
+    <Nombre>Las pastas</Nombre>
+    <Puntuacion>http://www.viajaraitalia.com/wp-content/uploads/2012/06/hoteles-4-estrellas-napoles.png</Puntuacion>
+    <Imagen>http://confiafcare.com/wp-content/uploads/2016/03/comida-italiana.jpg</Imagen>
+    <Comentarios>Comentarios(21)</Comentarios>
+    <Direccion>La molina</Direccion>
+    <Horario>Lun-Sab: 12-20h</Horario>
+    <Telefono> (01) 564123</Telefono>
+  </Lugar>
+
+  <Lugar>
+    <Nombre>Bar/café</Nombre>
+    <Puntuacion>http://www.viajaraitalia.com/wp-content/uploads/2012/06/hoteles-4-estrellas-napoles.png</Puntuacion>
+    <Imagen>https://miscelanea.info/public/cafe1.jpg</Imagen>
+    <Comentarios>Comentarios(25)</Comentarios>
+    <Direccion>La molina</Direccion>
+    <Horario>Lun-Vie: 8-18h</Horario>
+    <Telefono> (01) 452631</Telefono>
+  </Lugar>
+
+  <Lugar>
+    <Nombre>El cevichon</Nombre>
+    <Puntuacion>http://www.viajaraitalia.com/wp-content/uploads/2012/06/hoteles-4-estrellas-napoles.png</Puntuacion>
+    <Imagen>http://www.guayaquilesmidestino.com/sites/default/files/galeria-gastronomia/foto_in-23.jpg</Imagen>
+    <Comentarios>Comentarios(34)</Comentarios>
+    <Direccion>La molina</Direccion>
+    <Horario>Lun-Sab: 12-20h</Horario>
+    <Telefono> (01) 446123</Telefono>
+  </Lugar>
+
+
+
+</Lugares>
