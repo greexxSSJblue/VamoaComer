@@ -4,15 +4,18 @@
     <Info>Pollo frito</Info>
     <Imagen>http://a2.files.biography.com/image/upload/c_fill,cs_srgb,dpr_1.0,g_face,h_300,q_80,w_300/MTE4MDAzNDEwMjc1NTAxNTgy.jpg</Imagen>
     <url>http://www.kfc.com.pe</url>
+    <Descripcion>10 piezas de pollo, 8 nuggets, 4 alitas, ensalada grande y papas y gaseosa de 1.5 litros a S/.49.99.</Descripcion>
   </Promo>
   <Promo>
     <Info>Comida China</Info>
     <Imagen>http://www.chinawok.com.pe/imagenes/deliveries/Delivery-F.png</Imagen>
     <url>http://www.chinawok.com.pe</url>
+    <Descripcion>3 Chaufas S/.50.</Descripcion>
   </Promo>
   <Promo>
     <Info>Comida Italiana</Info>
     <Imagen>https://www.pizzahut.com.pe/Imagenes/BOTONERA%20HOME%20OFERTA%20ONLINE%20WEB%204.jpg</Imagen>
     <url>http://limadelivery.com</url>
+    <Descripcion>2 pizzas familiares Americana, Hawaiana o Peperoni a S/.50</Descripcion>
   </Promo>
 </Promociones>

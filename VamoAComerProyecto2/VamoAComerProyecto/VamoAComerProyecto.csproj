@@ -65,8 +65,8 @@
     <Content Include="Principal.Master" />
     <Content Include="pruebaparamaster2.aspx" />
     <Content Include="InformacionRestaurantes.aspx" />
-    <Content Include="XMLFile1.xml" />
-    <Content Include="XMLFile2.xml" />
+    <Content Include="promofamiliar.xml" />
+    <Content Include="promopersonal.xml" />
     <Content Include="BlackBoard.ttf" />
     <Content Include="Principal2.Master" />
     <Content Include="ArchivoRestaurantes.xml" />
