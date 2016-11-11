@@ -250,8 +250,8 @@
                     <dt><label>Escoge tu promo:</label></dt>
                     <dd>
                         
-                        <input type="radio" name="tipo_attach" onclick="toggle(this)" value="b" > Familiares<br />
-                        <input type="radio" name="tipo_attach" onclick="toggle(this)" value="c"> Personales<br />
+                        <input type="radio" name="tipo_attach" onclick="toggle(this)" value="b" /> Familiares<br />
+                        <input type="radio" name ="tipo_attach" onclick="toggle(this)" value="c"/> Personales<br />
                         
                     </dd>
                 </dl>

@@ -94,6 +94,8 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Imágenes-búsqueda\BUSINESS ICON-023.png" />
+    <Content Include="Imágenes-búsqueda\restaurant-icon-png-4874.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
