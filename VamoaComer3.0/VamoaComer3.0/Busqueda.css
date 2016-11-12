@@ -1,21 +1,31 @@
 ﻿body {
+    font-family: Arial;
 }
 
 #buscar {
-    margin-top: 50px;
     float: left;
-    margin-left: 50px;
+    margin-left: 150px;
+    width: 441px;
 }
 
-#imagen1{
-    float:right;
-    margin-right:50px;
-   
-}
+    #buscar h1 {
+        font-size: 50px;
+        width: 597px;
+        height: 116px;
+    }
+
+    #buscar td {
+        padding: 20px;
+        border: 2px dashed white;
+        margin: 20px;
+        text-align: center;
+    }
+
 
 #restaurantes {
+    margin-top: 50px;
     float: right;
-    margin-right: 50px;
+    margin-right: 150px;
 }
 
 
@@ -28,28 +38,30 @@
     }
 
     #restaurantes #boton {
-        float: left;
     }
 
     #restaurantes tr {
         border-bottom: 2px solid #808080;
-        margin-left: 100px;
+        margin-left: 200px;
     }
 
     #restaurantes td {
-        margin-left: 100px;
+        margin-left: 200px;
     }
 
 #frecuentes {
     margin-top: 50px;
     float: left;
-    margin-left: 10px;
+    margin-left: 150px;
 }
 
-#zona {
-    columns: 3;
-}
+    #frecuentes #zona {
+        columns: 3;
+    }
 
-#tipo {
-    columns: 3;
-}
+    #frecuentes #tipo {
+        columns: 3;
+    }
+
+    #frecuentes #li {
+    }

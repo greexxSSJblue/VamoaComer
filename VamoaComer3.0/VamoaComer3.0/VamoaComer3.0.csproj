@@ -94,7 +94,12 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Content Include="IniciarSesion.aspx" />
+=======
+    <Content Include="Imágenes-búsqueda\BUSINESS ICON-023.png" />
+    <Content Include="Imágenes-búsqueda\restaurant-icon-png-4874.png" />
+>>>>>>> origin/master
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

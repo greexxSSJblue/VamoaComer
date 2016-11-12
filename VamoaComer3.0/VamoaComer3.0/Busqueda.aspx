@@ -3,10 +3,11 @@
      <link href="Busqueda.css" rel="stylesheet" />
 
     <div id="buscar">
-        <h1>Busca restaurantes</h1>
-        <table>
+        <h1>Busca restaurantes <img src="Imágenes-búsqueda/restaurant-icon-png-4874.png" width="60" style="height: 54px; margin-top: 17px"/> </h1>
+        
+        <table style="height: 189px; width: 502px; margin-left: 8px; margin-right: 0px;">
             <tr>
-                <td>
+                <td style="width: 211px">
                     <p>Dónde?</p>
                     <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
                 </td>
@@ -24,14 +25,14 @@
                 </td>
             </tr>
             <tr>
-                <td>
-                    <p>Tipo de cocina:</p>
+                <td style="width: 211px">
+                    <p>Categoría:</p>
                     <asp:DropDownList ID="DropDownList3" runat="server">
-                        <asp:ListItem Selected="True" Value=""> Todos los tipos </asp:ListItem>
-                        <asp:ListItem Value=""> Silver </asp:ListItem>
-                        <asp:ListItem Value=""> Dark Gray </asp:ListItem>
-                        <asp:ListItem Value=""> Khaki </asp:ListItem>
-                        <asp:ListItem Value=""> Dark Khaki </asp:ListItem>
+                        <asp:ListItem Selected="True" Value=""> Todos las categorías </asp:ListItem>
+                        <asp:ListItem Value=""> Parrillas</asp:ListItem>
+                        <asp:ListItem Value=""> Comida criolla </asp:ListItem>
+                        <asp:ListItem Value=""> Vegetariana </asp:ListItem>
+                        <asp:ListItem Value=""> Otros </asp:ListItem>
                     </asp:DropDownList>
 
                 </td>
@@ -39,26 +40,28 @@
                     <p>Precio:</p>
                     <asp:DropDownList ID="DropDownList1" runat="server">
                         <asp:ListItem Selected="True" Value=""> Cualquier precio </asp:ListItem>
-                        <asp:ListItem Value=""> Silver </asp:ListItem>
-                        <asp:ListItem Value=""> Dark Gray </asp:ListItem>
-                        <asp:ListItem Value=""> Khaki </asp:ListItem>
-                        <asp:ListItem Value=""> Dark Khaki </asp:ListItem>
+                        <asp:ListItem Value=""> 15 S/. a menos </asp:ListItem>
+                        <asp:ListItem Value=""> 15 S/. a 30 S/. </asp:ListItem>
+                        <asp:ListItem Value=""> 30 S/. a 45 S/. </asp:ListItem>
+                        <asp:ListItem Value=""> 45 S/. a más </asp:ListItem>
                     </asp:DropDownList>
                 </td>
             </tr>
         </table>
+        <asp:Button ID="Button2" runat="server" Text="Buscar" Height="38px" Width="87px" style="margin-left: 218px" />
     </div>
 
     <div id="imagen1">
-        <img src="http://estaticos02.telva.com/imagenes/2012/01/25/estilo_de_vida/1327496250_0.jpg" width="400" height="250"/>
+        
     </div>
 
 
 
 
     <section id="restaurantes">
-        <br /><br />
-        <h1>Lugares recomendados:</h1>
+        <img src="http://estaticos02.telva.com/imagenes/2012/01/25/estilo_de_vida/1327496250_0.jpg" width="400" height="250"/>
+
+        <h1>Lugares recomendados:<img src="Imágenes-búsqueda/BUSINESS%20ICON-023.png" width="60"/></h1>
         <asp:DataList ID="DataList1" RepeatColumns="1" Width="100%" runat="server" DataSourceID="XmlDataSource1">
             <ItemTemplate>
 
@@ -77,7 +80,10 @@
                     <p><%#XPath("Comentarios") %> <a href="">ver</a></p>
                 </div>
                 <div id="boton">
+      
+                    <h3><%#XPath("Precio") %></h3>
                     <asp:Button ID="Button1" runat="server" Text="Reservar" BorderStyle="Groove" BorderColor="#c0c0c0" BackColor="#c0c0c0" />
+
                 </div>
                 <br />
             </ItemTemplate>
@@ -88,7 +94,7 @@
     <section id="frecuentes">
         <h1>Busca y descubre</h1>
         <img src="http://www.adslzone.net/app/uploads/2015/11/google-maps.jpg" width="500" height="150" />
-        <h1>Búsquedas frecuentes</h1>
+        <h1>Búsquedas frecuentes <img src="Imágenes-búsqueda/lupa_318-50440.png" width="60"/></h1>
         <h3>Zona</h3>
         <ul id="zona">
             <li><a href="">Miraflores (259)</a></li>

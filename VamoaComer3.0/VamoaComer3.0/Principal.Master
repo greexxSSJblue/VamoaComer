@@ -9,7 +9,7 @@
       
         
         .contenedor {
-	box-shadow:0px 4px 3px rgba(0,0,0,.5);
+	
 	margin:auto;
 }
  
@@ -94,7 +94,7 @@ header nav ul li a:hover {
             
             <div class="contenedor" style="background-color:#550F03">
                 <div id="logo " style="float:left;background-color:#550F03 ">
-                <a href="index.aspx"><img id="gg" src="3_White_logo_on_color1_257x75.png" style="width:200px"/></a>
+                <a href="index.aspx"> <img id="gg" src="3_White_logo_on_color1_257x75.png" style="width:200px"/></a>
                 </div>
                
                 <nav>
@@ -126,7 +126,7 @@ header nav ul li a:hover {
         
 <div class="clear"></div>
             <div class="pie">
-	        <div class="left"><img src="4_Grayscale_logo_on_transparent_257x75.png" width="374" height="61" /><a href="https://www.facebook.com/VamoaComer-401364286919763/" target="_blank"><img src="http://lhsbox.com/imagenes/siguenos.png" border="0" align="top" /></a></div>
+	        <div class="left"><img src="4_Grayscale_logo_on_transparent_257x75.png" width="374" height="61" /><a href="https://www.facebook.com/VamoaComer-401364286919763/" target="_blank"><img src="http://lhsbox.com/imagenes/siguenos.png" border="0"  /></a></div>
             <div class="right">
     	
     	            <a href="https://www.facebook.com/VamoaComer-401364286919763/" target="_blank"><img src="http://lhsbox.com/imagenes/comparte.png"  /></a>
@@ -134,7 +134,7 @@ header nav ul li a:hover {
             </div >
                 <div class="clear"></div>
     
-    <div class="pie2" align="center">
+    <div class="pie2" >
     	<a href="Nosotros.aspx">Quienes Somos?</a>
         <a href="pruebaparamaster2.aspx">Mi Cuenta </a>
         <a href="Contactos.aspx">Contactenos</a>

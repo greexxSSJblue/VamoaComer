@@ -166,7 +166,7 @@ section.interno{width:75%;}
         <aside class="general">
             
             <div class="asideWrapper">
-                <a  href="" ><img id="fotoperfil"src="hahahsh.gif" /></a>
+                <a  href="IniciarSesion.aspx" ><img id="fotoperfil"src="hahahsh.gif" /></a>
                 <input id="boton" type="submit" value="Actualizar foto de perfil" />
         	        <div class="lateral">
         	            <h4>Seccion de favoritos</h4>
@@ -188,10 +188,10 @@ section.interno{width:75%;}
             </asp:ContentPlaceHolder>
         </section>
 
-        <div>
+        
 <div class="clear"></div>
             <div class="pie">
-	        <div class="left"><img src="4_Grayscale_logo_on_transparent_257x75.png" width="374" height="61" /><a href="https://www.facebook.com/VamoaComer-401364286919763/" target="_blank"><img src="http://lhsbox.com/imagenes/siguenos.png" border="0" align="top" /></a></div>
+	        <div class="left"><img src="4_Grayscale_logo_on_transparent_257x75.png" width="374" height="61" /><a href="https://www.facebook.com/VamoaComer-401364286919763/" target="_blank"><img src="http://lhsbox.com/imagenes/siguenos.png" border="0"  /></a></div>
             <div class="right">
     	
     	            <a href="https://www.facebook.com/VamoaComer-401364286919763/" target="_blank"><img src="http://lhsbox.com/imagenes/comparte.png"  /></a>
@@ -199,7 +199,7 @@ section.interno{width:75%;}
             </div >
                 <div class="clear"></div>
     
-    <div class="pie2" align="center">
+    <div class="pie2" >
     	<a href="Nosotros.aspx">Quienes Somos?</a>
         <a href="MiCuenta.aspx">Mi Cuenta </a>
         <a href="Contactos.aspx">Contactenos</a>

@@ -12,10 +12,10 @@
             <ItemTemplate>
                 <div class="ind">
                     <div id="arriba">
-                        <a href="" ><img id="image" src="<%#XPath("imagen") %>" /></a>
+                        <a href="Categoria.aspx" ><img id="image" src="<%#XPath("imagen") %>" /></a>
                     </div>
                     <div id="abajo">
-                        <a href=""><%#XPath("nombre") %></a>
+                        <a href="Categoria.aspx"><%#XPath("nombre") %></a>
                      
                         
                         </div>
