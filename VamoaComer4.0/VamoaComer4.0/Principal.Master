@@ -1,0 +1,153 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="VamoaComer3._0.Principal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+   <style>
+      
+        
+        .contenedor {
+	box-shadow:0px 4px 3px rgba(0,0,0,.5);
+	margin:auto;
+}
+ 
+
+ 
+header nav {
+	background:#550F03;
+	margin:0px;
+}
+ 
+header nav ul {
+	list-style: none;
+	overflow: hidden;
+}
+ 
+header nav ul li {
+	float: left;
+}
+ 
+header nav ul li a {
+	display: block;
+	padding:25px;
+	color:#fff;
+	text-decoration: none;
+}
+ 
+header nav ul li a:hover {
+	background:#350505;
+}
+
+            .pie {
+        padding: 69px 0 0 0;
+        width: 962px;
+        margin: auto;
+    }
+            .left {
+        float: left;
+    }
+            .right {
+        float: right;
+    }
+            .clear {
+        clear: both;
+    }
+            .pie2 {
+        border-top: solid 1px #9A0000;
+        border-bottom: solid 1px #9A0000;
+        padding: 14px 0 14px 179px;
+        margin: 18px 0 18px 0;
+        text-align:center;
+    }
+            .copy {
+        text-align: center;
+        color: #4D4D4D;
+        font-size: 11px;
+        margin: 0 0 14px 0;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+            a, img {
+        border: 0px;
+        outline: 0px;
+        text-decoration: none;
+        padding:5px;
+    }
+            body {
+	margin: 0px;
+	background-image: url("OGA1IU0.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #464646;
+}
+       
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>  
+            
+            <div class="contenedor" style="background-color:#550F03">
+                <div id="logo " style="float:left;background-color:#550F03 ">
+                <a href="Index.aspx"><img id="gg" src="3_White_logo_on_color1_257x75.png" style="width:200px"/> </a>
+                </div>
+               
+                <nav>
+                    <ul class="menu" style="margin:0px">
+                        <li><a class="head" href="Nosotros.aspx">Quiénes somos?</a></li>
+                        <li> <a class="head" href="Contactos.aspx">Contáctenos</a></li>
+                        <li><a class="head"  href="Categorias.aspx">Categorías</a></li>
+                        <li> <a class="head"  href="Busqueda.aspx">Búsqueda</a></li>
+                        <li> <a class="head" href="Promo.aspx">Promociones</a></li>
+                        <li><a class="head" href="MiCuenta.aspx">Registrate</a></li>
+                        <li><a class="head" href="IniciarSesion.aspx">Iniciar sesion</a></li>
+                    </ul>
+
+                
+                </nav>
+                
+            
+
+            </div>
+            
+        </header>
+
+       
+        <section class="Contenedor">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </section>
+
+        <div>
+<div class="clear"></div>
+            <div class="pie">
+	        <div class="left"><img src="4_Grayscale_logo_on_transparent_257x75.png" width="374" height="61" /><a href="https://www.facebook.com/VamoaComer-401364286919763/" target="_blank"><img src="http://lhsbox.com/imagenes/siguenos.png" border="0" align="top" /></a></div>
+            <div class="right">
+    	
+    	            <a href="https://www.facebook.com/VamoaComer-401364286919763/" target="_blank"><img src="http://lhsbox.com/imagenes/comparte.png"  /></a>
+                    <a href="https://www.facebook.com/VamoaComer-401364286919763/" target="_blank"><img src="http://lhsbox.com/imagenes/twitter.jpg" width="27" height="28" /></a>
+            </div >
+                <div class="clear"></div>
+    
+    <div class="pie2" align="center">
+    	<a href="Nosotros.aspx">Quienes Somos?</a>
+        <a href="pruebaparamaster2.aspx">Mi Cuenta </a>
+        <a href="Contactos.aspx">Contactenos</a>
+        <a href="contrato">Terminos y Condiciones</a>
+        <a href="politica" style="margin:0px;">Politicas de la empresa</a>
+    <div class="clear"></div>
+    
+    </div>
+    <div class="copy">
+    <div class="left" style="padding:4px 0 0 341px;">VamoaComer Copyright &copy; 2016 powered by Fabrizzio </div>
+    
+</div>
+        </div>
+        
+
+    </form>
+</body>
+</html>

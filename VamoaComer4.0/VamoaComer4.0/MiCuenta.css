@@ -1,0 +1,26 @@
+﻿#nombre,#apellido,#Contra,#Contra2,#Correo{
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    width: 377px;
+    margin:5px 0px;
+    font-size:20px;
+}
+#ddlDia, #ddlMes, #ddlAnio {
+    margin:5px 0px;
+}
+#bloqueder{
+    margin-left:60%;
+}
+#bloqueizq{
+    float:left;
+    width:60%;
+}
+#GG{
+    width: 400px;
+    margin-left:20%;
+}
+#boton{
+    border-radius:10px;
+    margin-left: 50%;
+}
