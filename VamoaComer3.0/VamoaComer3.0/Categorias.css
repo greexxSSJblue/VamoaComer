@@ -1,13 +1,12 @@
 ﻿body {
     font-family:arial;
    margin:0px;
-    background-color:#ccc;
-    
+  
 }
 #principal {
     
     text-align:center;
-    background-color:#ccc;
+    
    margin-left:75px;
 }
 
@@ -54,7 +53,7 @@ width:100%;
         -o-transform: scale(1.25);
         transform: scale(1.25);
         padding-bottom: 30px;
-         opacity :0.5;
+        background:rgba(0,0,0,0.7);
         box-shadow: rgba(0, 0, 0, 0.329412) 0px 1px 3px 0px;
         cursor: pointer;
     }
@@ -66,4 +65,7 @@ font-family:'Cambria Math';
 }
 span {
     text-align:center;
+}
+a{
+    color:white;
 }

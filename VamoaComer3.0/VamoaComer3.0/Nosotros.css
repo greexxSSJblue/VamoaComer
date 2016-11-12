@@ -15,20 +15,12 @@ hl{
 #quienessomos{
 	margin:0 auto;
 	text-align:center;
-	background-color:#ccc;
+	
 	float:right;
 	width:50%;
 	
 }
-footer{
-	border-top:2px solid green;
-	margin:0 auto;
-	text-align:center;
-	background-color:orange;
-	clear:both;
-	
-	
-}
+
 h2{
 	font-size:30px;
 	padding-bottom:10px;

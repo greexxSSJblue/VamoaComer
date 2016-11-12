@@ -75,7 +75,15 @@ header nav ul li a:hover {
     }
             body{
                 margin:0px;
-                background-color:#ccc;
+                 background-image: url(OGA1IU0.jpg);
+             background-position: center center;
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  background-size: cover;
+
+  background-color: #464646;
             }
        
         /* aside*/
@@ -143,8 +151,8 @@ section.interno{width:75%;}
                         <li><a class="head"  href="Categorias.aspx">Categorías</a></li>
                         <li> <a class="head"  href="Busqueda.aspx">Búsqueda</a></li>
                         <li> <a class="head" href="Promo.aspx">Promociones</a></li>
-                        <li><a class="head" href="MiCuenta.aspx">Registrate</a></li>
-                        <li><a class="head" href="MiUsuario.aspx">Iniciar sesion</a></li>
+                        <li><a class="head" href="Perfil.aspx">Mi Cuenta</a></li>
+                        <li><a class="head" href="MiUsuario.aspx">Cerrar sesion</a></li>
                     </ul>
 
                 

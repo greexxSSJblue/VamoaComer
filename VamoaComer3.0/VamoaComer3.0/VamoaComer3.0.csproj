@@ -94,6 +94,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="IniciarSesion.aspx" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -169,6 +170,13 @@
     </Compile>
     <Compile Include="InformacionRestaurantes.aspx.designer.cs">
       <DependentUpon>InformacionRestaurantes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IniciarSesion.aspx.cs">
+      <DependentUpon>IniciarSesion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IniciarSesion.aspx.designer.cs">
+      <DependentUpon>IniciarSesion.aspx</DependentUpon>
     </Compile>
     <Compile Include="MiCuenta.aspx.cs">
       <DependentUpon>MiCuenta.aspx</DependentUpon>
